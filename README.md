@@ -1,5 +1,7 @@
 # Olympic Participation: Exploratory Data Analysis
 
+[Explore the interactive website](https://ashishoutlier.github.io/EDA_Olympics_Dataset/). Website source and local setup are in [`website`](website/README.md).
+
 This notebook examines athlete records, participation over time, physical measurements, and recorded medals across Summer and Winter Olympic events. It checks data quality and explores the data through grouped summaries and charts.
 
 **Start here:** [Olympics analysis notebook](Olympics_EDA.ipynb) · [Included athlete records](dataset_olympics.csv)
