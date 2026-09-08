@@ -39,3 +39,5 @@ The deployable files are in `dist/pages`. GitHub Pages serves them from the `gh-
 Tests cover intersecting filters, distinct athletes, medal record counts, chronological grouping, empty results, and exported asset locations. Static rendering and referenced assets were checked. Visual browser review was unavailable in the working environment.
 
 Fonts are included locally with their OFL notices in `public/fonts`. The application uses React, TypeScript, Vinext, and the retained Sites component library. GitHub Pages provides the public deployment because the Sites hosting service returned a deployment error during this work.
+
+Lint checks the authored application and scripts. The page keeps full document navigation for its relative homepage link. SVG charts retain their accessible image roles. The corresponding framework style rules are disabled only for the page where they conflict with these choices.
